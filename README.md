@@ -4,8 +4,10 @@ ________________________________________________________________________________
 ### Projeto
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem e cadastrarem pontos de coleta de resíduos de forma eficiente.
 ______________________________________________________________________________________________________________
-![](ecoleta.png)
+![](/readme/ecoleta.png)
 ______________________________________________________________________________________________________________
+![](/readme/cadastro.png)
+
 ### Tecnologias
 * Html
 * Css
